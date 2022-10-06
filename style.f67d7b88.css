@@ -1,0 +1,2 @@
+body{margin:0}.stars__star{height:16px;width:16px;background-image:url(star.040e0f1e.svg);background-repeat:no-repeat;background-position:50%;margin-right:4px}.stars{display:flex;flex-direction:row}.stars--1 :not(:nth-of-type(n+2)),.stars--2 :not(:nth-of-type(n+3)),.stars--3 :not(:nth-of-type(n+4)),.stars--4 :not(:nth-of-type(n+5)),.stars--5 :not(:nth-of-type(n+6)){background-image:url(star-active.3d99ddfd.svg)}
+/*# sourceMappingURL=style.f67d7b88.css.map */
